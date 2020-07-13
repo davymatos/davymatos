@@ -9,3 +9,14 @@
 
 #
 ## Fala aí, galera! 👋
+
+#### Meu nome é Davy de Matos e esse é o meu Github! 🤟
+
+### Habilidades: 
+
+- Laravel (PHP)
+- Django (Python)
+- Banco de Dados e Análise de dados
+- HTML, CSS e Javascript básico
+
+##### :link: <a href="https://davymatos.github.io">davymatos.github.io</a>
