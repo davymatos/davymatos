@@ -19,8 +19,5 @@
 - Banco de Dados e Análise de dados
 - HTML, CSS e Javascript básico
 
-### Estatísticas: 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davymatos&hide=issues&count_private=true)
 
 ##### :link: <a href="https://davymatos.github.io">davymatos.github.io</a>
