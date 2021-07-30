@@ -28,3 +28,5 @@
 
 
 #### :link: <a href="https://davymatos.github.io">davymatos.github.io</a>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
