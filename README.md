@@ -21,13 +21,11 @@
 
 ### Estatísticas do Github
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davymatos&hide=issues&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davymatos&hide=issues&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davymatos&hide=php)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davymatos&theme=dark&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### :link: <a href="https://davymatos.github.io">davymatos.github.io</a>
-
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
