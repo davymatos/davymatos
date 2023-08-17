@@ -6,13 +6,15 @@
 #
 ## Fala aí, galera! 👋
 
-#### Meu nome é Davy de Matos e esse é o meu Github! 🤟
+#### Meu nome é Davy de Matos e esse é o meu Github! 😁
 
 ### Habilidades Técnicas: 
 
+- Testes Funcionais e Exploratórios
+- Testes Automatizados (Cypress e Selenium)
+- Banco de Dados e Análise de dados
 - Laravel (PHP)
 - Django (Python)
-- Banco de Dados e Análise de dados
 - HTML, CSS e Javascript básico
 
 ### :bar_chart: Estatísticas do meu Github:
