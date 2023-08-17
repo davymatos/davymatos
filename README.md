@@ -1,6 +1,5 @@
 
 [![GitHub davymatos](https://img.shields.io/github/followers/davymatos?label=follow&style=social)](https://github.com/davymatos)
-[![Blog Badge](https://img.shields.io/badge/Blog-davymatos.github.io-black)](https://davymatos.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-davymatos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davymatos/)](https://www.linkedin.com/in/davymatos/)
 [![Gmail Badge](https://img.shields.io/badge/-davymatossg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:davymatossg@gmail.com)](mailto:davymatossg@gmail.com)
 
