@@ -15,7 +15,7 @@
 - Banco de Dados e Análise de dados
 - HTML, CSS e Javascript básico
 
-### :bar_chart: My Github Stats:
+### :bar_chart: Estatísticas do meu Github:
 <div>
   <a href="https://github.com/davymatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davymatos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
